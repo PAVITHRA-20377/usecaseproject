@@ -1,0 +1,52 @@
+#d{
+    height: 600px;
+    width:400px;
+    background-color:rgb(210, 238, 238);
+    padding: 20px;
+    text-align: left;
+ }
+ #position{
+     position: absolute;
+     top: 120px;
+ }
+ #input1{
+     width:370px;
+     height: 45px;
+     border:1px solid rgb(204, 232, 243);
+     box-shadow: 1px 1px 1px -1px;
+     border-radius: 5px;
+ }
+ #but{
+     width:100px;
+     height: 40px; 
+     background-color: cadetblue; 
+     border:solid 1px cadetblue;
+     border-radius: 5px; 
+     color:white
+ }
+ #b{
+     width:100px;
+     height:40px;
+     position: absolute;
+     background-color: cadetblue; 
+     border:solid 1px cadetblue;
+     border-radius: 5px; 
+     color:white
+ 
+ }
+ span{
+     color: rgb(69, 139, 167);
+ }
+ #button1{
+         width:150px;
+         height: 40px;
+         color: rgb(21, 159, 21);
+         border: 1px solid rgb(21, 159, 21);
+         border-radius: 5px;
+ }
+ #button2{
+     width:150px;
+     height: 40px;
+     border:1px solid rgb(73, 129, 151);
+     border-radius: 5px;
+ }

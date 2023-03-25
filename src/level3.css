@@ -1,0 +1,42 @@
+#td{
+    width:400px
+}
+#tr{
+    background-color: aquamarine;
+    text-align: center;
+    height: 40px;
+    }
+#di{
+    height: 600px;
+    width:700px;
+    background-color:rgb(210, 238, 238);
+    padding: 20px;    
+ }
+ #post{    
+     text-align: center;
+ }
+ #th{
+    position: absolute;
+    left:400px 
+ }
+ #td1{
+    width:100px;
+ }
+ #th1{
+    position: absolute;
+    left:400px ;
+    top:220px
+ }
+ #td2{
+    width:45px
+ }
+ #id3{
+    background-color: blue;
+    color:white;
+    border: 1px solid blue;
+    border-radius: 5px;
+    height: 30px;
+ }
+ #no{
+   width: 30px;
+ }
